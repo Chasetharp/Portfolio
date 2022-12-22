@@ -1,3 +1,2 @@
 # Portfolio
-Portfolio project, final project using HTML, CSS, jQuery, PHP for blog.
-See live website at www.chasetharp.com/amyBlog
+Java software project, using multiple classes, accessors, mutators, constructors, and array lists.
